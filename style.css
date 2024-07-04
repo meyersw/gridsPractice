@@ -1,3 +1,14 @@
+@charset "utf-8";
+/*
+       Grids Practice
+       Author: William Meyers
+       Date:   2024-07-04
+   
+       Filename: style.css
+
+   This file contains the screen styles used with grid practice
+*/
+
 :root {
     --primary: #ddd;
     --dark: #333;
